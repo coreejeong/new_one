@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\c\u002Bworks\\Basic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D14DB5F9-98B2-4A1D-ACAE-1B822A164B93}|Basic\\Basic.vcxproj|C:\\c\u002Bworks\\Basic\\Basic\\stringEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D14DB5F9-98B2-4A1D-ACAE-1B822A164B93}|Basic\\Basic.vcxproj|solutionrelative:Basic\\stringEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14DB5F9-98B2-4A1D-ACAE-1B822A164B93}|Basic\\Basic.vcxproj|C:\\c\u002Bworks\\Basic\\Basic\\ctimeEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D14DB5F9-98B2-4A1D-ACAE-1B822A164B93}|Basic\\Basic.vcxproj|solutionrelative:Basic\\ctimeEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14DB5F9-98B2-4A1D-ACAE-1B822A164B93}|Basic\\Basic.vcxproj|C:\\c\u002Bworks\\Basic\\Basic\\cmathEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D14DB5F9-98B2-4A1D-ACAE-1B822A164B93}|Basic\\Basic.vcxproj|solutionrelative:Basic\\cmathEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14DB5F9-98B2-4A1D-ACAE-1B822A164B93}|Basic\\Basic.vcxproj|C:\\c\u002Bworks\\Basic\\Basic\\defaultParameter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D14DB5F9-98B2-4A1D-ACAE-1B822A164B93}|Basic\\Basic.vcxproj|solutionrelative:Basic\\defaultParameter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14DB5F9-98B2-4A1D-ACAE-1B822A164B93}|Basic\\Basic.vcxproj|C:\\c\u002Bworks\\Basic\\Basic\\functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D14DB5F9-98B2-4A1D-ACAE-1B822A164B93}|Basic\\Basic.vcxproj|solutionrelative:Basic\\functions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14DB5F9-98B2-4A1D-ACAE-1B822A164B93}|Basic\\Basic.vcxproj|C:\\c\u002Bworks\\Basic\\Basic\\arrayString.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D14DB5F9-98B2-4A1D-ACAE-1B822A164B93}|Basic\\Basic.vcxproj|solutionrelative:Basic\\arrayString.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14DB5F9-98B2-4A1D-ACAE-1B822A164B93}|Basic\\Basic.vcxproj|C:\\c\u002Bworks\\Basic\\Basic\\keyrepeat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D14DB5F9-98B2-4A1D-ACAE-1B822A164B93}|Basic\\Basic.vcxproj|solutionrelative:Basic\\keyrepeat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14DB5F9-98B2-4A1D-ACAE-1B822A164B93}|Basic\\Basic.vcxproj|C:\\c\u002Bworks\\Basic\\Basic\\printData.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D14DB5F9-98B2-4A1D-ACAE-1B822A164B93}|Basic\\Basic.vcxproj|solutionrelative:Basic\\printData.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14DB5F9-98B2-4A1D-ACAE-1B822A164B93}|Basic\\Basic.vcxproj|C:\\c\u002Bworks\\Basic\\Basic\\inputData.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D14DB5F9-98B2-4A1D-ACAE-1B822A164B93}|Basic\\Basic.vcxproj|solutionrelative:Basic\\inputData.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D14DB5F9-98B2-4A1D-ACAE-1B822A164B93}|Basic\\Basic.vcxproj|C:\\c\u002Bworks\\Basic\\Basic\\variableEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D14DB5F9-98B2-4A1D-ACAE-1B822A164B93}|Basic\\Basic.vcxproj|solutionrelative:Basic\\variableEx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 334,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "stringEx.cpp",
+              "DocumentMoniker": "C:\\c\u002Bworks\\Basic\\Basic\\stringEx.cpp",
+              "RelativeDocumentMoniker": "Basic\\stringEx.cpp",
+              "ToolTip": "C:\\c\u002Bworks\\Basic\\Basic\\stringEx.cpp",
+              "RelativeToolTip": "Basic\\stringEx.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-25T07:35:03.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ctimeEx.cpp",
+              "DocumentMoniker": "C:\\c\u002Bworks\\Basic\\Basic\\ctimeEx.cpp",
+              "RelativeDocumentMoniker": "Basic\\ctimeEx.cpp",
+              "ToolTip": "C:\\c\u002Bworks\\Basic\\Basic\\ctimeEx.cpp",
+              "RelativeToolTip": "Basic\\ctimeEx.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-25T07:15:58.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "cmathEx.cpp",
+              "DocumentMoniker": "C:\\c\u002Bworks\\Basic\\Basic\\cmathEx.cpp",
+              "RelativeDocumentMoniker": "Basic\\cmathEx.cpp",
+              "ToolTip": "C:\\c\u002Bworks\\Basic\\Basic\\cmathEx.cpp",
+              "RelativeToolTip": "Basic\\cmathEx.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-25T07:08:27.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "defaultParameter.cpp",
+              "DocumentMoniker": "C:\\c\u002Bworks\\Basic\\Basic\\defaultParameter.cpp",
+              "RelativeDocumentMoniker": "Basic\\defaultParameter.cpp",
+              "ToolTip": "C:\\c\u002Bworks\\Basic\\Basic\\defaultParameter.cpp",
+              "RelativeToolTip": "Basic\\defaultParameter.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-24T08:42:10.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "functions.cpp",
+              "DocumentMoniker": "C:\\c\u002Bworks\\Basic\\Basic\\functions.cpp",
+              "RelativeDocumentMoniker": "Basic\\functions.cpp",
+              "ToolTip": "C:\\c\u002Bworks\\Basic\\Basic\\functions.cpp",
+              "RelativeToolTip": "Basic\\functions.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-24T08:32:45.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "arrayString.cpp",
+              "DocumentMoniker": "C:\\c\u002Bworks\\Basic\\Basic\\arrayString.cpp",
+              "RelativeDocumentMoniker": "Basic\\arrayString.cpp",
+              "ToolTip": "C:\\c\u002Bworks\\Basic\\Basic\\arrayString.cpp",
+              "RelativeToolTip": "Basic\\arrayString.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-24T08:19:19.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "keyRepeat.cpp",
+              "DocumentMoniker": "C:\\c\u002Bworks\\Basic\\Basic\\keyRepeat.cpp",
+              "RelativeDocumentMoniker": "Basic\\keyRepeat.cpp",
+              "ToolTip": "C:\\c\u002Bworks\\Basic\\Basic\\keyRepeat.cpp",
+              "RelativeToolTip": "Basic\\keyRepeat.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-24T08:02:13.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "inputData.cpp",
+              "DocumentMoniker": "C:\\c\u002Bworks\\Basic\\Basic\\inputData.cpp",
+              "RelativeDocumentMoniker": "Basic\\inputData.cpp",
+              "ToolTip": "C:\\c\u002Bworks\\Basic\\Basic\\inputData.cpp",
+              "RelativeToolTip": "Basic\\inputData.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-24T07:42:39.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "variableEx.cpp",
+              "DocumentMoniker": "C:\\c\u002Bworks\\Basic\\Basic\\variableEx.cpp",
+              "RelativeDocumentMoniker": "Basic\\variableEx.cpp",
+              "ToolTip": "C:\\c\u002Bworks\\Basic\\Basic\\variableEx.cpp",
+              "RelativeToolTip": "Basic\\variableEx.cpp",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-24T07:21:25.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "printData.cpp",
+              "DocumentMoniker": "C:\\c\u002Bworks\\Basic\\Basic\\printData.cpp",
+              "RelativeDocumentMoniker": "Basic\\printData.cpp",
+              "ToolTip": "C:\\c\u002Bworks\\Basic\\Basic\\printData.cpp",
+              "RelativeToolTip": "Basic\\printData.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-24T07:11:29.76Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
